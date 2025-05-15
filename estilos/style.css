@@ -26,6 +26,11 @@ main {
 }
 
 section#login {
+
+    transition: width .2s, height .2s;
+    transition-timing-function: ease;
+
+
     display: block;
     position: absolute;
     top: 50%;
