@@ -9,7 +9,7 @@ Small Desktop: 769px - 1024px
 Large Desktops: 1025px 
 */
 
-@media screen and (min-width: 480px) and (max-width: 889px){
+@media screen and (min-width: 480px) and (max-width: 992px){
     section#login {
         width: 90vw;
         height: 400px;
@@ -27,7 +27,7 @@ Large Desktops: 1025px
     }
 }
 
-@media screen and (min-width: 890px) and (max-width: 1024px) {
+@media screen and (min-width: 993px) and (max-width: 1024px) {
     body {
         background-image: linear-gradient(to top, #55FAC7, #E054FA);
     }
